@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: b8fb96db5f15baf4caa8cecb74f77325
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bottles_Container
+    100004: Canvas_Frames
+    100006: Canvasstand_empty frames
+    100008: Color Tubes_Brushes
+    100010: Door
+    100012: Empty Canvas
+    100014: Floor
+    100016: Furniture
+    100018: Gameboard
+    100020: Wall behind
+    100022: Wall front
+    100024: Wall left
+    100026: Wall right
+    100028: Windows
+    400000: //RootNode
+    400002: Bottles_Container
+    400004: Canvas_Frames
+    400006: Canvasstand_empty frames
+    400008: Color Tubes_Brushes
+    400010: Door
+    400012: Empty Canvas
+    400014: Floor
+    400016: Furniture
+    400018: Gameboard
+    400020: Wall behind
+    400022: Wall front
+    400024: Wall left
+    400026: Wall right
+    400028: Windows
+    2100000: Room
+    2100002: door_window
+    2100004: Game Board
+    2100006: Bottles_Containers
+    2100008: Color tubes_brushes
+    2100010: Canvasstand_empty frames
+    2100012: Empty Canvas
+    2100014: Canvas_Frames
+    2100016: Furniture
+    2300000: Bottles_Container
+    2300002: Canvas_Frames
+    2300004: Canvasstand_empty frames
+    2300006: Color Tubes_Brushes
+    2300008: Door
+    2300010: Empty Canvas
+    2300012: Floor
+    2300014: Furniture
+    2300016: Gameboard
+    2300018: Wall behind
+    2300020: Wall front
+    2300022: Wall left
+    2300024: Wall right
+    2300026: Windows
+    3300000: Bottles_Container
+    3300002: Canvas_Frames
+    3300004: Canvasstand_empty frames
+    3300006: Color Tubes_Brushes
+    3300008: Door
+    3300010: Empty Canvas
+    3300012: Floor
+    3300014: Furniture
+    3300016: Gameboard
+    3300018: Wall behind
+    3300020: Wall front
+    3300022: Wall left
+    3300024: Wall right
+    3300026: Windows
+    4300000: Wall behind
+    4300002: Wall left
+    4300004: Wall front
+    4300006: Wall right
+    4300008: Door
+    4300010: Floor
+    4300012: Gameboard
+    4300014: Bottles_Container
+    4300016: Color Tubes_Brushes
+    4300018: Canvasstand_empty frames
+    4300020: Empty Canvas
+    4300022: Canvas_Frames
+    4300024: Furniture
+    4300026: Windows
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottles_Containers
+    second: {fileID: 2100000, guid: 235afe0ac9b5ef24c9a9b7c1c437700e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canvas_Frames
+    second: {fileID: 2100000, guid: 64cb12040797d27438360a04452fceea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canvasstand_empty frames
+    second: {fileID: 2100000, guid: 3ed956a87369d2a4cb20ccc3a66b587e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color tubes_brushes
+    second: {fileID: 2100000, guid: 67091ae604c2c4c4bbeb02cc71935c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Empty Canvas
+    second: {fileID: 2100000, guid: c146b26898e167544a07447b92bebbe1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Furniture
+    second: {fileID: 2100000, guid: 4dd4526f32b1e71429d7b3387e53d137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Game Board
+    second: {fileID: 2100000, guid: 2cb986bd3d71fbb47becfcf776b4bb40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room
+    second: {fileID: 2100000, guid: 241a231af1da35a4797fa668e52bbe75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_window
+    second: {fileID: 2100000, guid: c4767b7c723258a4fac40436a893c702, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

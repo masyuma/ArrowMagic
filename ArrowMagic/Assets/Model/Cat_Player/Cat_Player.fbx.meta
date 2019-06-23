@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: 2bb5658a5a585844f9955354f7405b1b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Arm IK.L
+    100002: Arm IK.L_end
+    100004: Arm IK.R.001
+    100006: Arm IK.R.001_end
+    100008: Armature Cat
+    100010: Armature Player
+    100012: Backleg IK.L
+    100014: Backleg IK.R.001
+    100016: Backleg Knee.L.
+    100018: Backleg Knee.L..001
+    100020: Backleg Knee.L..001_end
+    100022: Backleg Knee.L._end
+    100024: Backpaw.L
+    100026: Backpaw.L_end
+    100028: Backpaw.R.001
+    100030: Backpaw.R.001_end
+    100032: Bone
+    100034: Bone.001
+    100036: //RootNode
+    100038: Compass
+    100040: Control
+    100042: Ear.L
+    100044: Ear.L_end
+    100046: Ellbow.L
+    100048: Ellbow.L_end
+    100050: Ellbow.R.001
+    100052: Ellbow.R.001_end
+    100054: Foot.L
+    100056: Foot.L_end
+    100058: Foot.R.001
+    100060: Foot.R.001_end
+    100062: Forleg IK.L
+    100064: Forleg IK.R.001
+    100066: Forleg Knee.L
+    100068: Forleg Knee.L_end
+    100070: Forleg Knee.R.001
+    100072: Forleg Knee.R.001_end
+    100074: ForPaw.L
+    100076: ForPaw.L_end
+    100078: ForPaw.R.001
+    100080: ForPaw.R.001_end
+    100082: Hand.L
+    100084: Hand.L_end
+    100086: Hand.R.001
+    100088: Hand.R.001_end
+    100090: Head
+    100092: Head 1
+    100094: Head.R
+    100096: Head.R_end
+    100098: Head_end
+    100100: Katze
+    100102: Knee.L
+    100104: Knee.L_end
+    100106: Knee.R.001
+    100108: Knee.R.001_end
+    100110: Leg IK.L
+    100112: Leg IK.R.001
+    100114: Lower Arm.L
+    100116: Lower Arm.R.001
+    100118: Lower Backleg.L
+    100120: Lower Backleg.L_end
+    100122: Lower Backleg.R.001
+    100124: Lower Backleg.R.001_end
+    100126: Lower Forleg.L
+    100128: Lower Forleg.L_end
+    100130: Lower Forleg.R.001
+    100132: Lower Forleg.R.001_end
+    100134: Lower Leg.L
+    100136: Lower Leg.L_end
+    100138: Lower Leg.R.001
+    100140: Lower Leg.R.001_end
+    100142: Spieler
+    100144: Spine 1
+    100146: Spine 2
+    100148: Spine 3
+    100150: Spine 3_end
+    100152: Stomach
+    100154: Tail 1
+    100156: Tail 2
+    100158: Tail 3
+    100160: Tail 4
+    100162: Tail 4_end
+    100164: Tail IK
+    100166: Tail IK_end
+    100168: Upper Arm.L
+    100170: Upper Arm.R.001
+    100172: Upper Backleg.L
+    100174: Upper Backleg.R.001
+    100176: Upper Forleg.L
+    100178: Upper Forleg.R.001
+    100180: Upper Leg.L
+    100182: Upper Leg.R.001
+    400000: Arm IK.L
+    400002: Arm IK.L_end
+    400004: Arm IK.R.001
+    400006: Arm IK.R.001_end
+    400008: Armature Cat
+    400010: Armature Player
+    400012: Backleg IK.L
+    400014: Backleg IK.R.001
+    400016: Backleg Knee.L.
+    400018: Backleg Knee.L..001
+    400020: Backleg Knee.L..001_end
+    400022: Backleg Knee.L._end
+    400024: Backpaw.L
+    400026: Backpaw.L_end
+    400028: Backpaw.R.001
+    400030: Backpaw.R.001_end
+    400032: Bone
+    400034: Bone.001
+    400036: //RootNode
+    400038: Compass
+    400040: Control
+    400042: Ear.L
+    400044: Ear.L_end
+    400046: Ellbow.L
+    400048: Ellbow.L_end
+    400050: Ellbow.R.001
+    400052: Ellbow.R.001_end
+    400054: Foot.L
+    400056: Foot.L_end
+    400058: Foot.R.001
+    400060: Foot.R.001_end
+    400062: Forleg IK.L
+    400064: Forleg IK.R.001
+    400066: Forleg Knee.L
+    400068: Forleg Knee.L_end
+    400070: Forleg Knee.R.001
+    400072: Forleg Knee.R.001_end
+    400074: ForPaw.L
+    400076: ForPaw.L_end
+    400078: ForPaw.R.001
+    400080: ForPaw.R.001_end
+    400082: Hand.L
+    400084: Hand.L_end
+    400086: Hand.R.001
+    400088: Hand.R.001_end
+    400090: Head
+    400092: Head 1
+    400094: Head.R
+    400096: Head.R_end
+    400098: Head_end
+    400100: Katze
+    400102: Knee.L
+    400104: Knee.L_end
+    400106: Knee.R.001
+    400108: Knee.R.001_end
+    400110: Leg IK.L
+    400112: Leg IK.R.001
+    400114: Lower Arm.L
+    400116: Lower Arm.R.001
+    400118: Lower Backleg.L
+    400120: Lower Backleg.L_end
+    400122: Lower Backleg.R.001
+    400124: Lower Backleg.R.001_end
+    400126: Lower Forleg.L
+    400128: Lower Forleg.L_end
+    400130: Lower Forleg.R.001
+    400132: Lower Forleg.R.001_end
+    400134: Lower Leg.L
+    400136: Lower Leg.L_end
+    400138: Lower Leg.R.001
+    400140: Lower Leg.R.001_end
+    400142: Spieler
+    400144: Spine 1
+    400146: Spine 2
+    400148: Spine 3
+    400150: Spine 3_end
+    400152: Stomach
+    400154: Tail 1
+    400156: Tail 2
+    400158: Tail 3
+    400160: Tail 4
+    400162: Tail 4_end
+    400164: Tail IK
+    400166: Tail IK_end
+    400168: Upper Arm.L
+    400170: Upper Arm.R.001
+    400172: Upper Backleg.L
+    400174: Upper Backleg.R.001
+    400176: Upper Forleg.L
+    400178: Upper Forleg.R.001
+    400180: Upper Leg.L
+    400182: Upper Leg.R.001
+    2100000: Cat
+    2100002: cat eye highlights
+    2100004: Compass
+    2100006: Player
+    2100008: Player Mouth highlights
+    4300000: Katze
+    4300002: Compass
+    4300004: Spieler
+    7400000: Armature Cat|Cat Idle
+    7400002: Armature Cat|Cat Turning
+    7400004: Armature Cat|Cat Walking
+    7400006: Armature Player|Player Idle
+    7400008: Armature Player|Player Turning
+    7400010: Armature Player|Player Walking
+    9500000: //RootNode
+    13700000: Compass
+    13700002: Katze
+    13700004: Spieler
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cat
+    second: {fileID: 2100000, guid: bbed9f7365183304ea254c562da5fea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Compass
+    second: {fileID: 2100000, guid: 55223314949263b4db90c625a28c308a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Player
+    second: {fileID: 2100000, guid: c0e7f07ccd2d2434789a5abcae277607, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Player Mouth highlights
+    second: {fileID: 2100000, guid: bc822c8f17ec12447a3efe2995ebe22f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cat eye highlights
+    second: {fileID: 2100000, guid: 04dde67e3eac77d4f80fa387331d92ca, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature Cat|Cat Idle
+      takeName: Armature Cat|Cat Idle
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Cat|Cat Turning
+      takeName: Armature Cat|Cat Turning
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Cat|Cat Walking
+      takeName: Armature Cat|Cat Walking
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Player|Player Idle
+      takeName: Armature Player|Player Idle
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Player|Player Turning
+      takeName: Armature Player|Player Turning
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature Player|Player Walking
+      takeName: Armature Player|Player Walking
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
